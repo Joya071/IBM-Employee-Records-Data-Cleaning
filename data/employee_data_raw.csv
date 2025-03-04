@@ -1,0 +1,22 @@
+Employee ID,Name,Department,Salary,Joining Date,Performance Rating
+EMP0001,Frank Thomas,Sales,83839,3/9/2010,4.9
+EMP0002,Hank White,IT,115125,11/6/2011,4.7
+,Frank Thomas,Marketing,,10/11/2007,2.7
+EMP0004,Ivy Green,HR,77283,6/16/2003,
+EMP0005,Frank Thomas,HR,67550,9/4/2012,4.8
+,,Marketing,68240,8/19/2013,4.1
+EMP0007,,IT,86926,2/1/2003,4.7
+EMP0008,Alice Brown,Marketing,102803,6/7/2013,4.2
+EMP0009,Charlie Davis,Sales,74730,7/29/2008,2.6
+EMP0010,John Doe,Finance,,11/9/2012,4.6
+EMP0011,Jane Smith,Marketing,42524,8/26/2011,3.4
+EMP0012,Frank Thomas,Sales,72429,7/9/2002,3.2
+EMP0013,Hank White,Finance,,1/11/2010,4.1
+EMP0014,Hank White;,IT,88560,9/28/2004,2.8
+EMP0015,charlie davis,Marketing,41014,4/7/2008,4.7
+EMP0016,John Doe'',IT,111952,3/25/2000,
+EMP0017,Ivy Green,IT,98276,11/28/2012,4.6
+EMP0018,Bob Johnson,HR,94670,4/5/2005,3.4
+,Jane Smith,Marketing,97345,9/3/2000,
+EMP0020,Alice Brown,HR,,4/9/2008,4.4
+,;;;,,,,
